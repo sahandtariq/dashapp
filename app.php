@@ -1,0 +1,1 @@
+<?php $MODE='app'; require __DIR__.'/core.php';

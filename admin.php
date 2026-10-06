@@ -1,0 +1,1 @@
+<?php $MODE='admin'; require __DIR__.'/core.php';
